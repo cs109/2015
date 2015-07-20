@@ -8,6 +8,7 @@ title: Schedule
 ### Week 1 Aug 31 - Sep 6
 
 **Thursday**
+
 Lecture 1: Introduction and course overview
 
 ### Week 2 Sep 7 - Sep 13
