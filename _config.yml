@@ -16,7 +16,7 @@ author :
   twitter : 
   feedburner : nil
 
-production_url : http://cs109.github.io/2014
+production_url : http://cs109.github.io/2015
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -49,7 +49,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://cs109.github.io/2014
+  BASE_PATH : http://cs109.github.io/2015
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -59,7 +59,7 @@ JB :
   #   http://s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : http://cs109.github.io/2014/assets/themes/twitter
+  ASSET_PATH : http://cs109.github.io/2015/assets/themes/twitter
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
