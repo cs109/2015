@@ -4,4 +4,4 @@ title: CS109 Homework and Labs
 ---
 
 
-# In preparation
+Homework assignments will be posted here. 
