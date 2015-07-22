@@ -29,7 +29,7 @@ Lecture 4: Introduction to Databases and SQL
 
 Lecture 5: Probability review, statistical models, bootstrap, cross validation
 
-Homework 1 due
+*Homework 1 due*
 
 ### Week 4 Sep 21 - Sep 27
 
@@ -53,7 +53,7 @@ Lecture 8: LASSO regularization, bias and sampling, bias-variance tradeoff, over
 
 Lecture 9: Classification, kNN, dimensionality reduction
 
-Homework 2 due
+*Homework 2 due*
 
 ### Week 6 Oct 5 - Oct 11
 
@@ -75,7 +75,7 @@ Lecture 12: Ensemble methods, boosting
 
 Lecture 13: Bayesian thinking, prior distributions, likelihood, naive Bayes
 
-Homework 3 due 
+*Homework 3 due* 
 
 ### Week 8 Oct 19 - Oct 25
 
@@ -98,7 +98,7 @@ Lecture 16: Previous project reviews
 
 Lecture 17: Clustering, k-means, mean-shift, hierarchical clustering
 
-Homework 4 due
+*Homework 4 due*
 
 ### Week 10 Nov 2 - Nov 8
 
@@ -114,7 +114,7 @@ Lecture 19: Effective presentations
 
 **Monday**
 
-Final project proposals due
+*Final project proposals due*
 
 **Tuesday**
 
@@ -126,7 +126,7 @@ Lecture 21: Interactive visualizations
 
 ### Week 12 Nov 16 - Nov 22
 
-Review your project proposal with your TF this week
+*Review your project proposal with your TF this week*
 
 **Tuesday**
 
@@ -136,7 +136,7 @@ Lecture 22: Guest lecture, databases
 
 Lecture 23: Spark
 
-Homework 5 due
+*Homework 5 due*
 
 ### Week 13 Nov 23 - Nov 29
 
@@ -158,7 +158,7 @@ Lecture 25: Wrap-up & Outlook
 
 **Thursday**
 
-Final project due 
+*Final project due* 
 
 
 ### Week 16 Dec 14 - Dec 20
