@@ -5,7 +5,7 @@ title: CS109 Data Science
 
 # CS109 Data Science
 
-![Hubway Clustering](../figures/Hubway_clustering.png)
+![Hubway Clustering](../figures/HubwayClustering.jpg)
 
 [Predicting Hubway Stations Status by 
 Lauren Alexander, Gabriel Goulet-Langlois, Joshua Wolff](http://cs109hubway.github.io/classp/)
