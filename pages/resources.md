@@ -6,10 +6,10 @@ title: CS109 Resources
 This page contains a collection of resources that can be useful throughout the course. We list books, further reading material and resources that can help with learning python, data science skills, or collecting data. 
 
 
-## Reading material 
+## Suggested Readings
 Here we list some helpful readings for lecture material and some further resources you might find helpful. 
 
-Readings are not mandatory, but highly recommended. Post your comments and questions using a "Note" in Piazza with the appropriate title (e.g., Readings Week 1: …). Always add the hashtag #readings. To avoid a proliferation of different notes on the same topic please use the "Followup discussions" feature in Piazza.
+If you have comments and questions about the reading material, feel free to discuss them on Piazza, with the hashtag #readings. To avoid a proliferation of different notes on the same topic please use the "Followup discussions" feature in Piazza.
 
 ### Books
 

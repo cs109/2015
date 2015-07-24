@@ -3,17 +3,15 @@ layout: page
 title: CS109 Data Science Syllabus
 ---
 
-# Fall 2015
-
 **Instructors:** Hanspeter Pfister (Computer Science), Joe Blitzstein (Statistics), Verena Kaynig-Fittkau (Computer Science)
 
-Welcome to CS109! The course is also listed as STAT121 and AC209, and offered through the Harvard University Extension School as distance education course CSCI E-109. All lectures and sections are recorded and archived.  
+Welcome to CS109! The course is also listed as STAT121 and AC209, and offered through the Harvard University Extension School as distance education course CSCI E-109. 
 
 **What is this class about?**
 
 This class is about learning from data, in order to gain useful predictions and insights. Separating signal from noise presents many computational and inferential challenges, which we approach from a perspective at the interface of computer science and statistics.  Through real-world examples of wide interest, we introduce methods for five key facets of an investigation:
 
-* *data munging/scraping/sampling/cleaning* in order to get an informative, manageable data set;* 
+* *data munging/scraping/sampling/cleaning* in order to get an informative, manageable data set;
 
 * *data storage and management* in order to be able to access data - especially big data - quickly and reliably during subsequent analysis;
 
@@ -99,7 +97,7 @@ The class meets twice a week for lectures and joint class activities. The class 
 
 **Sections**
 
-Lectures are supplemented by 60- to 90-minute sections led by the teaching fellows. Sections are limited to about 20 students (the numbers may vary due to enrollment). One of the sections will be recorded and made available online. Sections are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding by a teaching fellow. Sections will also give you the opportunity to work on your homework and your projects while a TF is present to answer your questions. Section topics are announced in the schedule. 
+Lectures are supplemented by 60 minute sections led by the teaching fellows. Sections are limited to about 20 students (the numbers may vary due to enrollment). One of the sections will be recorded and made available online. Sections are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding by a teaching fellow. Sections will also give you the opportunity to work on your homework and your projects while a TF is present to answer your questions. Section topics are announced in the schedule. 
 
 **Homework**
 
@@ -117,7 +115,7 @@ Your final grade will be determined by the number of points you collect. You can
 
 * **Homework: 50%**, assessed on your individual submission.
 * **Project: 40%**, assessed on meeting the project criteria and your peer assessment.
-* **Participation: 10%** assessed on participation on Piazza and lecture and section attendance.
+* **Participation: 10%** assessed on participation on Piazza and in section.
 * **Best Projects:** We will elect the top three project submissions that will get extra points.
 
 Homework, project, and participation will be graded holistically beyond mechanical correctness and focusing on the overall quality of the work using the following 10 point scale in 1 point increments:
@@ -132,7 +130,7 @@ Homework, project, and participation will be graded holistically beyond mechanic
 
 0 = Did not participate / did not hand in
 
-A weighted overall average of 10 constitutes a perfect grade and is equivalent to an A. A combination of 10s and 8s end up being A- to B, and so on. An average of better than 5 is required to pass the course. Teaching Fellows will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work. 
+Teaching Fellows will evaluate your work holistically beyond mechanical correctness and focus on the overall quality of the work. 
 
 In addition to the scores the Teaching Fellows will give detailed written feedback.
 
@@ -162,7 +160,7 @@ In the weeks when homeworks are due, they will be **due on Thursdays at 11:59 pm
 
 **Regrading Policy**
 
-It is very important to us that all assignments are properly graded. If you believe there is an error in your assignment grading, please submit an explanation via email to us (the staff mailing list) **within 7 days of receiving the grade**. No regrade requests will be accepted orally, and no regrade requests will be accepted more than 7 days after the grades for the assignment have been sent out.   
+It is very important to us that all assignments are properly graded. If you believe there is an error in your assignment grading, please submit an explanation via email to us (the staff mailing list) **within 7 days of receiving the grade**. No regrade requests will be accepted orally, and no regrade requests will be accepted more than 7 days after the grades for the assignment have been sent out. The teaching staff will re-examine your entire assignment. So your score may go up, stay the same, or go down.    
 
 **Guest Lecture Attendance**
 

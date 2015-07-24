@@ -19,6 +19,9 @@ Lecture 2: The data science process, exploratory data analysis and effective vis
 
 Lecture 3: Data collection, web scraping, data cleanup. 
 
+*Homework 0 due*
+
+
 ### Week 3 Sep 14 - Sep 20
 
 **Tuesday**
