@@ -9,6 +9,11 @@ title: Schedule
 
 Lecture 1: Introduction and course overview
 
+**Section Topic**
+
+Python, Numpy, and the Web
+
+
 ### Week 2 Sep 7 - Sep 13
 
 **Tuesday**
@@ -21,6 +26,9 @@ Lecture 3: Data collection, web scraping, data cleanup.
 
 *Homework 0 due*
 
+**Section Topic**
+
+Pandas in 1D
 
 ### Week 3 Sep 14 - Sep 20
 
@@ -34,6 +42,10 @@ Lecture 5: Probability review, statistical models, bootstrap, cross validation
 
 *Homework 1 due*
 
+**Section Topic**
+
+Pandas in 2D
+
 ### Week 4 Sep 21 - Sep 27
 
 **Tuesday**
@@ -44,6 +56,9 @@ Lecture 6: Effective communication and report writing
 
 Lecture 7: Linear and logistic regression
 
+**Section Topic**
+
+SciKit Learn, Regression, Logistic Regression
 
 ### Week 5 Sep 28 - Oct 4
 
@@ -58,6 +73,10 @@ Lecture 9: Classification, kNN, dimensionality reduction
 
 *Homework 2 due*
 
+**Section Topic**
+
+kNN, PCA, SVD, MDS
+
 ### Week 6 Oct 5 - Oct 11
 
 **Tuesday**
@@ -67,6 +86,10 @@ Lecture 10: Support vector machines and performance evaluation methods
 **Thursday**
 
 Lecture 11: Decision trees and random forest
+
+**Section Topic**
+
+SVM, Random Forest
 
 ### Week 7 Oct 12 - Oct 18
 
@@ -80,6 +103,10 @@ Lecture 13: Bayesian thinking, prior distributions, likelihood, naive Bayes
 
 *Homework 3 due* 
 
+**Section Topic**
+
+Everything Bayes
+
 ### Week 8 Oct 19 - Oct 25
 
 **Tuesday**
@@ -90,6 +117,9 @@ Lecture 14: Advanced Bayesian thinking
 
 Lecture 15: MapReduce and Amazon EC2
 
+**Section Topic**
+
+EC2 and MRJob
 
 ### Week 9 Oct 26 - Nov 1
 
@@ -103,6 +133,10 @@ Lecture 17: Clustering, k-means, mean-shift, hierarchical clustering
 
 *Homework 4 due*
 
+**Section Topic**
+
+Clustering
+
 ### Week 10 Nov 2 - Nov 8
 
 **Tuesday**
@@ -112,6 +146,10 @@ Lecture 18: Text analysis, LDA, topic modeling
 **Thursday**
 
 Lecture 19: Effective presentations
+
+**Section Topic**
+
+From Naive Bayes to LDA
 
 ### Week 11 Nov 9 - Nov 15
 
@@ -127,6 +165,10 @@ Lecture 20: Deep learning
 
 Lecture 21: Interactive visualizations
 
+**Section Topic**
+
+Deep Learning and Experimental design
+
 ### Week 12 Nov 16 - Nov 22
 
 *Review your project proposal with your TF this week*
@@ -140,6 +182,10 @@ Lecture 22: Guest lecture, databases
 Lecture 23: Spark
 
 *Homework 5 due*
+
+**Section Topic**
+
+Wrapup
 
 ### Week 13 Nov 23 - Nov 29
 
