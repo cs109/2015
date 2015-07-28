@@ -79,7 +79,7 @@ None. Instead, we have a list of recommended readings on the web site.
 
 **Online Discussion Forum**
 
-We\'ll be using Piazza ([www.piazza.com](http://www.piazza.com/)) as our online forum. Piazza is your main venue to ask questions, discuss problems, and help each other out. Piazza is a question-and-answer system designed to streamline class discussion outside of the classroom. It should always be your first recourse for seeking answers to your questions about the course, lecture or reading material, or the assignments. Piazza supports LaTeX, code formatting, embedding of images, and attaching of files. We will also use Piazza for all announcements, so it is important that you are signed up. 
+We'll be using [Piazza](http://www.piazza.com/) as our online forum. Piazza is your main venue to ask questions, discuss problems, and help each other out. Piazza is a question-and-answer system designed to streamline class discussion outside of the classroom. It should always be your first recourse for seeking answers to your questions about the course, lecture or reading material, or the assignments. Piazza supports LaTeX, code formatting, embedding of images, and attaching of files. We will also use Piazza for all announcements, so it is important that you are signed up. 
 
 **Online Videos**
 
@@ -97,7 +97,8 @@ The class meets twice a week for lectures and joint class activities. The class 
 
 **Sections**
 
-Lectures are supplemented by 60 minute sections led by the teaching fellows. Sections are limited to about 20 students (the numbers may vary due to enrollment). One of the sections will be recorded and made available online. Sections are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding by a teaching fellow. Sections will also give you the opportunity to work on your homework and your projects while a TF is present to answer your questions. Section topics are announced in the schedule. 
+Lectures are supplemented by weekly sections led by the teaching fellows. Sections are limited to about 20 students (the numbers may vary due to enrollment). One of the sections will be recorded and made available online. Sections are an important aspect of the course, as they are meant to give you the technical skills to successfully complete the homework assignments and projects, complementing the theoretical knowledge taught in lectures. Sections will typically consist of a short presentation and live coding by a teaching fellow. Sections will also give you the opportunity to work on your homework and your projects while a TF is present to answer your questions. Section topics are announced in the schedule. 
+Section attendance is **mandatory** for all on-campus students and will be considered for your participation grade. You are allowed **two excused absences** for the semester without penalty. Thereafter you will receive zero credit for the missed sections. To receive an excused absence you must notify your TF in advance. 
 
 **Homework**
 
@@ -105,7 +106,7 @@ The homework is going to provide an opportunity to learn data science skills and
 
 **Project**
 
-Towards the end of the course you will work on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about some topic of your own choosing. You will acquire the data, design your visualizations, run statistical analysis, and communicate the results. You will work closely with other classmates in a **3-4 person project team**. You can come up with your own teams and use Piazza to find prospective team members. If you can\'t find a partner we will team you up randomly. We recognize that individual schedules, different time zones, preferences, and other constraints might limit your ability to work in a team. If this the case, ask us for permission to work alone. 
+Towards the end of the course you will work on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about some topic of your own choosing. You will acquire the data, design your visualizations, run statistical analysis, and communicate the results. You will work closely with other classmates in a **3-4 person project team**. You can come up with your own teams and use Piazza to find prospective team members. If you cannot find a partner we will team you up randomly. We recognize that individual schedules, different time zones, preferences, and other constraints might limit your ability to work in a team. If this the case, ask us for permission to work alone. 
 
 ## Course Policies
 
@@ -115,7 +116,7 @@ Your final grade will be determined by the number of points you collect. You can
 
 * **Homework: 50%**, assessed on your individual submission.
 * **Project: 40%**, assessed on meeting the project criteria and your peer assessment.
-* **Participation: 10%** assessed on participation on Piazza and in section.
+* **Participation: 10%** assessed on participation on Piazza and (for on-campus students) section attendance.
 * **Best Projects:** We will elect the top three project submissions that will get extra points.
 
 Homework, project, and participation will be graded holistically beyond mechanical correctness and focusing on the overall quality of the work using the following 10 point scale in 1 point increments:
@@ -140,7 +141,7 @@ In the professional world, three important features affect your productivity and
 
 **Collaboration Policy**
 
-You are welcome to discuss the course's ideas, material, and homework with others in order to better understand it, but **the work you turn in must be your own** (or for the project, yours and your teammate's). For example, you must write your own code, run your own data analyses, and communicate and explain the results in your own words and with your own visualizations. You may not submit the same or similar work to this course that you have submitted or will submit to another. Nor may you provide or make available solutions to homeworks to individuals who take or may take this course in the future. You are responsible for understanding the [Harvard College](https://college.harvard.edu/academics/academic-integrity) and [Extension School](www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity) policies on academic integrity and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting "the wrong draft", or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. 
+You are welcome to discuss the course\'s ideas, material, and homework with others in order to better understand it, but **the work you turn in must be your own** (or for the project, yours and your teammate\'s). For example, you must write your own code, run your own data analyses, and communicate and explain the results in your own words and with your own visualizations. You may not submit the same or similar work to this course that you have submitted or will submit to another. Nor may you provide or make available solutions to homeworks to individuals who take or may take this course in the future. You are responsible for understanding the [Harvard College](https://college.harvard.edu/academics/academic-integrity) and [Extension School](www.extension.harvard.edu/resources-policies/student-conduct/academic-integrity) policies on academic integrity and how to use sources responsibly. Not knowing the rules, misunderstanding the rules, running out of time, submitting "the wrong draft", or being overwhelmed with multiple demands are not acceptable excuses. There are no excuses for failure to uphold academic integrity. 
 
 **Quoting Sources**
 
@@ -156,7 +157,7 @@ Projects and homework **must** be turned in on time, with the exception of late 
 
 **Homework Deadlines and Late Days**
 
-In the weeks when homeworks are due, they will be **due on Thursdays at 11:59 pm EST** unless otherwise announced. Each student is given **six late days** for homework at the beginning of the semester. A late day extends the individual homework deadline by 24 hours without penalty. **No more than two late days may be used on any one assignment. Assignments handed in more than 48 hours after the original deadline will not be graded.** If you have already used all of your late days for the semester, we will deduct 2 point for assignments <24 hours late, and 4 points for assignments 24-48 hours late. We do not accept any homeworks under any circumstances more than 48 hours after the original deadline. Late days are intended to give you flexibility: you can use them for any reason - no questions asked. You don't get any bonus points for not using your late days. You can only use late days for the individual homework deadlines. All other deadlines (e.g., project milestones) are hard. 
+In the weeks when homeworks are due, they will be **due on Thursdays at 11:59 pm EST** unless otherwise announced. Each student is given **six late days** for homework at the beginning of the semester. A late day extends the individual homework deadline by 24 hours without penalty. **No more than two late days may be used on any one assignment. Assignments handed in more than 48 hours after the original deadline will not be graded.** If you have already used all of your late days for the semester, we will deduct 2 point for assignments <24 hours late, and 4 points for assignments 24-48 hours late. We do not accept any homeworks under any circumstances more than 48 hours after the original deadline. Late days are intended to give you flexibility: you can use them for any reason - no questions asked. You don\'t get any bonus points for not using your late days. You can only use late days for the individual homework deadlines. All other deadlines (e.g., project milestones) are hard. 
 
 **Regrading Policy**
 
@@ -164,7 +165,7 @@ It is very important to us that all assignments are properly graded. If you beli
 
 **Guest Lecture Attendance**
 
-We are lucky to have some of the world's best researchers take time out of their busy schedules to give guest lectures. We expect all non-distance students to attend these lectures in person and to engage the speakers with questions and comments. You must send an email to the staff at least one day before a guest lecture to be excused.
+We are lucky to have some of the world\'s best researchers take time out of their busy schedules to give guest lectures. We expect all non-distance students to attend these lectures in person and to engage the speakers with questions and comments. You must send an email to the staff at least one day before a guest lecture to be excused.
 
 ## Additional Information
 
