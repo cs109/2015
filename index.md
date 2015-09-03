@@ -33,6 +33,7 @@ The course is also listed as AC209, STAT121, and E-109.
 * Rahul Dave, Head TF
 * And many others to come
 
+Contact the staff at <a href="mailto:staff@cs109.org">staff at cs109 dot org</a>.
 
 #### Material from CS 109 taught in Fall 2014
 
