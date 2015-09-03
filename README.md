@@ -1,5 +1,9 @@
 # 2015
 
+##Lectures
+
+The Lecture slides up to Lecture 1 are in this repository. Just click on the Lectures Folder.
+
 ##Lab 1
 
 https://github.com/cs109/2015lab1
@@ -16,7 +20,7 @@ https://github.com/cs109-students/2015hw
 
 Switch to branch hw0.
 
-You will not be able to access the above link if you havent been added to the cs109-students github organization. For this to happen, you must have submitted the survey, and it will take a bit of time for us to get to your github id after that.
+You will not be able to access the above link if you have not been added to the cs109-students github organization. For this to happen, you must have submitted the survey, and it will take a bit of time for us to get to your github id after that.
 
 For this reason, we have included HW0 in the lab link above.
 
