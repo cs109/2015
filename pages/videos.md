@@ -1,3 +1,8 @@
+---
+layout: page
+title: Lectures/Labs Videos, Slides, and Notebooks
+---
+
 You can obtain all the lecture slides at any point by cloning https://github.com/cs109/2015, and using `git pull` as the weeks go on.
 
 You can see the entire list of videos [here](https://canvas.harvard.edu/courses/4283/pages/virtual-classroom). Below we list them by class/section along with a link to the slides.
