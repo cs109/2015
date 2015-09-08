@@ -20,7 +20,7 @@ The course is also listed as AC209, STAT121, and E-109.
 
 * Lectures are 2:30-4pm on Tuesdays & Thursdays in NW B103
 * First week collective section Friday 9/4/ 10am-12pm in MD G115
-* Section times TBA
+* Section times on schedule page
 
 #### Instructors
 
