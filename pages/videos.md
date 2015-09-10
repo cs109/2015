@@ -27,6 +27,6 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 2:
     - Repository: [2015](https://github.com/cs109/2015). The specific [notebook](https://github.com/cs109/2015/blob/master/Lectures/02-DataScrapingQuizzes.ipynb)
-    - Video: Still to come
-    
+    - Video: Web Scraping. Regular Expressions. Data Reshaping. Data Cleanup. Pandas. [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=f7ff1893-fbf7-4909-b44e-12e61a98a677), [SD](https://cm.dce.harvard.edu/2016/01/14328/publicationListing.shtml?typeNum=L02), [Mobile](https://cm.dce.harvard.edu/2016/01/14328/mobilePublicationListing.shtml?typeNum=L02)
+
 - Lecture 3: Still to come
