@@ -29,4 +29,12 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
     - Repository: [2015](https://github.com/cs109/2015). The specific [notebook](https://github.com/cs109/2015/blob/master/Lectures/02-DataScrapingQuizzes.ipynb)
     - Video: Web Scraping. Regular Expressions. Data Reshaping. Data Cleanup. Pandas. [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=f7ff1893-fbf7-4909-b44e-12e61a98a677), [SD](https://cm.dce.harvard.edu/2016/01/14328/publicationListing.shtml?typeNum=L02), [Mobile](https://cm.dce.harvard.edu/2016/01/14328/mobilePublicationListing.shtml?typeNum=L02)
 
-- Lecture 3: Still to come
+- Lecture 3: Exploratory Data Analysis
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/03-EDA.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/03-EDA.pdf)
+    - Video: Coming
+
+####Week 3 (Mon Sep 14 - Fri Sep 18)
+
+- Lab 2: **Scraping, Pandas, Python, and viz**
+    - Repository: [2015Lab2](https://github.com/cs109/2015lab2)
+    - Video: Coming
