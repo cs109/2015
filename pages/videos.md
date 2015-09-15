@@ -25,11 +25,11 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
     - Repository: [2015Lab1](https://github.com/cs109/2015lab1)
     - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e15f221c-5275-4f7f-b486-759a7d483bc8) (recommended), [SD](https://cm.dce.harvard.edu/2016/01/14328/publicationListing.shtml?typeNum=L02), [Mobile](https://cm.dce.harvard.edu/2016/01/14328/mobilePublicationListing.shtml?typeNum=L02)
 
-- Lecture 2:
+- Lecture 2: **Web Scraping. Regular Expressions. Data Reshaping. Data Cleanup. Pandas.**
     - Repository: [2015](https://github.com/cs109/2015). The specific [notebook](https://github.com/cs109/2015/blob/master/Lectures/02-DataScrapingQuizzes.ipynb)
-    - Video: Web Scraping. Regular Expressions. Data Reshaping. Data Cleanup. Pandas. [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=f7ff1893-fbf7-4909-b44e-12e61a98a677), [SD](https://cm.dce.harvard.edu/2016/01/14328/publicationListing.shtml?typeNum=L02), [Mobile](https://cm.dce.harvard.edu/2016/01/14328/mobilePublicationListing.shtml?typeNum=L02)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=f7ff1893-fbf7-4909-b44e-12e61a98a677), [SD](https://cm.dce.harvard.edu/2016/01/14328/publicationListing.shtml?typeNum=L02), [Mobile](https://cm.dce.harvard.edu/2016/01/14328/mobilePublicationListing.shtml?typeNum=L02)
 
-- Lecture 3: Exploratory Data Analysis
+- Lecture 3: **Exploratory Data Analysis**
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/03-EDA.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/03-EDA.pdf)
     - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=a4e81697-fd86-415c-9b29-c14ea7ec15f2)
 
