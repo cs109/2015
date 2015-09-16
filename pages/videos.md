@@ -32,9 +32,15 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 - Lecture 3: Exploratory Data Analysis
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/03-EDA.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/03-EDA.pdf)
     - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=a4e81697-fd86-415c-9b29-c14ea7ec15f2)
+    [HD-captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4dc7719e-1ef4-4ee5-a9d9-fc48c3e13185)
 
 ####Week 3 (Mon Sep 14 - Fri Sep 18)
 
 - Lab 2: **Scraping, Pandas, Python, and viz**
     - Repository: [2015Lab2](https://github.com/cs109/2015lab2)
     - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=b89de485-9e30-4783-9287-23701c5f95f7)
+
+- Lecture 4: Pandas, SQL, and the Grammar of Data
+    - Repository: [2015](https://github.com/cs109/2015). The specific [notebook](https://github.com/cs109/2015/blob/master/Lectures/Lecture4/PandasAndSQL.ipynb)
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/04-PandasSQL.pdf),[Download](https://github.com/cs109/2015/raw/master/Lectures/04-PandasSQL.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=f8a832cb-56e7-401b-b485-aec3c9928069)
