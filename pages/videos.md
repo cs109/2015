@@ -44,3 +44,14 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
     - Repository: [2015](https://github.com/cs109/2015). The specific [notebook](https://github.com/cs109/2015/blob/master/Lectures/Lecture4/PandasAndSQL.ipynb)
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/04-PandasSQL.pdf),[Download](https://github.com/cs109/2015/raw/master/Lectures/04-PandasSQL.pdf)
     - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=f8a832cb-56e7-401b-b485-aec3c9928069)
+    [HD-captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=cf9c4d5f-fe87-48cc-bd45-3da212b39a95)
+
+- Lecture 5: Statistical Models
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/05-StatisticalModels.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/05-StatisticalModels.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=873964c6-d345-4f46-a8bc-727b96432d63)
+
+####Week 5 (Mon Sep 21 - Fri Sep 25)
+
+- Lab 3: **Probability, Distributions, and Frequentist Statistics**
+    - Repository: [2015Lab3](https://github.com/cs109/2015lab3)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=8af4418a-7f5b-4738-9c72-6fc2ba1fc499)
