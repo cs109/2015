@@ -55,3 +55,6 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 - Lab 3: **Probability, Distributions, and Frequentist Statistics**
     - Repository: [2015Lab3](https://github.com/cs109/2015lab3)
     - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=8af4418a-7f5b-4738-9c72-6fc2ba1fc499)
+
+- Lecture 6: Story Telling and Effective Communication
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/06-StoryTelling.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/06-StoryTelling.pdf)
