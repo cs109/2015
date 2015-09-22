@@ -50,7 +50,7 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/05-StatisticalModels.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/05-StatisticalModels.pdf)
     - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=873964c6-d345-4f46-a8bc-727b96432d63)
 
-####Week 5 (Mon Sep 21 - Fri Sep 25)
+####Week 4 (Mon Sep 21 - Fri Sep 25)
 
 - Lab 3: **Probability, Distributions, and Frequentist Statistics**
     - Repository: [2015Lab3](https://github.com/cs109/2015lab3)

@@ -3,13 +3,18 @@ layout: page
 title: CS109 Resources
 ---
 
-This page contains a collection of resources that can be useful throughout the course. We list books, further reading material and resources that can help with learning python, data science skills, or collecting data. 
+### WEEKLY RESOURCES
 
+#### Week 3
 
-## Suggested Readings
-Here we list some helpful readings for lecture material and some further resources you might find helpful. 
+- [Pandas Snippets](http://chrisalbon.com) by Chris Albon
+- [Statistics for Hackers](https://speakerdeck.com/jakevdp/statistics-for-hackers) by Jake Vanderplas
 
-If you have comments and questions about the reading material, feel free to discuss them on Piazza, with the hashtag #readings. To avoid a proliferation of different notes on the same topic please use the "Followup discussions" feature in Piazza.
+#### Week 4
+
+- [Duke Scientific Writing Resource](https://cgi.duke.edu/web/sciwriting/)
+  
+  ​
 
 ### Books
 
@@ -20,6 +25,12 @@ You can read O’Reilly books for free with a Harvard login at [this web site](h
 ![image alt text](../figures/image_1.gif)[Machine Learning for Hackers, O’Reilly Media](http://shop.oreilly.com/product/0636920018483.do) - "If you’re an experienced programmer interested in crunching data, this book will get you started with machine learning—a toolkit of algorithms that enables computers to train themselves to automate useful tasks. Authors Drew Conway and John Myles White help you understand machine learning and statistics tools through a series of hands-on case studies, instead of a traditional math-heavy presentation.”
 
 A translation of the R examples in *Machine Learning for Hackers* to Python can be found here: [http://slendrmeans.wordpress.com/will-it-python/](http://slendrmeans.wordpress.com/will-it-python/)
+
+![DSB](http://akamaicovers.oreilly.com/images/0636920028918/cat.gif) [Data Science For Business](http://shop.oreilly.com/product/0636920028918.do) 
+
+Written by renowned data science experts Foster Provost and Tom Fawcett, Data Science for Business introduces the fundamental principles of data science, and walks you through the "data-analytic thinking" necessary for extracting useful knowledge and business value from the data you collect. This guide also helps you understand the many data-mining techniques in use today.
+
+Based on an MBA course Provost has taught at New York University over the past ten years,*Data Science for Business* provides examples of real-world business problems to illustrate these principles. You’ll not only learn how to improve communication between business stakeholders and data scientists, but also how participate intelligently in your company’s data science projects. You’ll also discover how to think data-analytically, and fully appreciate how data science methods can support business decision-making.
 
 ![image alt text](../figures/image_2.png)[Probabilistic Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/urls/raw.github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/master/Prologue/Prologue.ipynb) - "The Bayesian method is the natural approach to inference, yet it is hidden from readers behind chapters of slow, mathematical analysis. The typical text on Bayesian inference involves two to three chapters on probability theory, then enters what Bayesian inference is. Unfortunately, due to mathematical intractability of most Bayesian models, the reader is only shown simple, artificial examples. This can leave the user with a so-what feeling about Bayesian inference. In fact, this was the author's own prior opinion.”
 
@@ -56,6 +67,7 @@ A translation of the R examples in *Machine Learning for Hackers* to Python can 
 [5] [Tips for Giving Clear Talks](http://www.cs.cmu.edu/~kayvonf/misc/cleartalktips.pdf), Kayvon Fatahalian 
 
 
+
 ### Data acquisition and cleanup
 
 [1] [Web scraping demo](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_04_scraping.ipynb) C. Beaumont, .ipynb
@@ -68,113 +80,13 @@ A translation of the R examples in *Machine Learning for Hackers* to Python can 
 
 [2] [Principal Components: Mathematics, Example, Interpretation](http://www.stat.cmu.edu/~cshalizi/350/lectures/10/lecture-10.pdf), Cosma Shalizi, CMU
 
-### Machine Learning 
+### Machine Learning
 
 [1] [Chapter 1](http://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf) of Machine learning, a Probabilistic Perspective
 
 [2] [Cross Validation: The Right and Wrong Way](http://nbviewer.ipython.org/urls/raw.github.com/cs109/content/master/lec_10_cross_val.ipynb)
 
 
-## Further Resources
-Here are some resources you might find helpful. Please post your own recommendations in Piazza using the hashtag #resource. 
-
-### Python
-
-[Python](http://python.org/)
-
-[Anaconda Python Distribution](http://www.continuum.io/downloads)
-
-[Learn Python in X Minutes](https://github.com/adambard/learnxinyminutes-docs/blob/master/python.html.markdown)
-
-[Learn Python the Hard Way](http://learnpythonthehardway.org/)
-
-[Learn Python](http://www.learnpython.org/) (interactive)
-
-[Google's Python Class](http://code.google.com/edu/languages/google-python-class/)
-
-[The Python Tutorial](http://docs.python.org/tutorial/)
-
-[IPython](http://ipython.org/)
-
-[The Python Package Index](http://pypi.python.org/pypi)
-
-[SciPy](http://www.scipy.org/)
-
-[NumPy](http://numpy.scipy.org/)
-
-[Matplotlib](http://matplotlib.sourceforge.net/)
-
-[pyvideo.org](http://pyvideo.org/)
-
-### Data Sources
-
-[Wolfram Alpha](http://www.wolframalpha.com/)
-
-[Jake Hofman Data Links](http://delicious.com/jhofman/data)
-
-[Peter Skomoroch (Linkedin) Data Links](http://delicious.com/pskomoroch/dataset)
-
-[Hilary Mason (bitly) Data Links](http://bitly.com/bundles/hmason/1)
-
-[Wikipedia Database](http://en.wikipedia.org/wiki/Wikipedia:Database_download)
-
-[IMDB Data](http://www.imdb.com/interfaces)
-
-[Last.fm Database](http://www.dtic.upf.edu/~ocelma/MusicRecommendationDataset/index.html)
-
-[Quandl](http://www.quandl.com)
-
-[Datamob](http://datamob.org/datasets)
-
-[Factual](http://www.factual.com/)
-
-[Metro Boston Data Common](http://metrobostondatacommon.org/)
-
-[Census.gov](http://www.census.gov/)
-
-[Data.gov](http://www.data.gov/)
-
-[Dataverse Network](http://thedata.org/)
-
-[Infochimps](http://infochimps.com/)
-
-[Linked Data](http://linkeddata.org/)
-
-[Guardian DataBlog](http://www.guardian.co.uk/news/datablog)
-
-[Data Market](http://datamarket.com/)
-
-[Reddit Open Data](http://www.reddit.com/r/opendata)
-
-[Climate Data Sources](http://www.realclimate.org/index.php/data-sources/)
-
-[Climate Station Records](http://www.metoffice.gov.uk/climatechange/science/monitoring/subsets.html)
-
-[CDC Data](http://www.cdc.gov/nchs/data_access/data_tools.htm)
-
-[World Bank Catalog](http://data.worldbank.org/data-catalog)
-
-[Free SVG Maps](http://www.d-maps.com/index.php?lang=en)
-
-[Office for National Statistics](http://www.statistics.gov.uk/default.asp)
-
-[StateMaster](http://www.statemaster.com/index.php)
-
-### Web Sites & Blogs
-
-[Gapminder](http://www.gapminder.org/blog/)
-
-[Flowing Data](http://flowingdata.com/)
-
-[Information Aesthetics](http://infosthetics.com/)
-
-[Many Eyes](http://manyeyes.alphaworks.ibm.com/manyeyes/)
-
-[Visual Complexity](http://www.visualcomplexity.com/vc/)
-
-[TF Johnny’s Site (Sample Code)](http://technologeeks.com/e61/)
-
-[WTF Visualizations](http://wtfviz.net/)
 
 
 
