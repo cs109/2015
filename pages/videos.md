@@ -69,4 +69,6 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 ####Week 5 (Mon Sep 28 - Fri 2 Oct)
 
-- Lab 4: Coming Soon
+- Lab 4: **Regression, Logistic Regression: in sklearn and statsmodels**
+    - Repository: [2015Lab4](https://github.com/cs109/2015lab4)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=483c8b93-3700-4ee8-80ed-aad7f3da7ac2)
