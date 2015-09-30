@@ -26,7 +26,7 @@ The course is also listed as AC209, STAT121, and E-109.
 
 * Joe Blitzstein, Statistics
 * Hanspeter Pfister, Computer Science
-* Verena Kaynig-Fittkau, Computer Science
+* Verena Kaynig-Fittkau, Computer Science, vkaynig@seas.harvard.edu, office hours: Tuesdays 4:15-5pm in NW B164
 
 #### Staff
 
