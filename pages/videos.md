@@ -61,14 +61,17 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 6: Story Telling and Effective Communication
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/06-StoryTelling.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/06-StoryTelling.pdf)
-    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=7f968df9-404a-46a2-ae5f-e35479875f95)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=7f968df9-404a-46a2-ae5f-e35479875f95), [HD-captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=697ce8bd-a41c-45d4-8201-5e0dcc8a518c)
 
 - Lecture 7: Bias and Regression
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/07-BiasAndRegression.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/07-BiasAndRegression.pdf)
-    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=afe70053-b8b7-43d3-9c2f-f482f479baf7)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=afe70053-b8b7-43d3-9c2f-f482f479baf7), [HD-captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=b2ac047a-ff65-4926-bd4a-77fdf1c63e0f)
 
 ####Week 5 (Mon Sep 28 - Fri 2 Oct)
 
 - Lab 4: **Regression, Logistic Regression: in sklearn and statsmodels**
     - Repository: [2015Lab4](https://github.com/cs109/2015lab4)
-    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=483c8b93-3700-4ee8-80ed-aad7f3da7ac2)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=483c8b93-3700-4ee8-80ed-aad7f3da7ac2), [HD-captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=145018c2-260e-47dc-b965-bfdfafacd4e9)
+
+- Lecture 8: More Regression
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/08-RegressionContinued.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/08-RegressionContinued.pdf)
