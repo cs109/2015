@@ -24,9 +24,9 @@ The course is also listed as AC209, STAT121, and E-109.
 
 #### Instructors
 
-* Joe Blitzstein, Statistics
+* Joe Blitzstein, Statistics, Office hours: Wednesdays 4-5pm in SC 714
 * Hanspeter Pfister, Computer Science
-* Verena Kaynig-Fittkau, Computer Science, vkaynig@seas.harvard.edu, office hours: Tuesdays 4:15-5pm in NW B164
+* Verena Kaynig-Fittkau, Computer Science, Office hours: Tuesdays 4:15-5pm in NW B164
 
 #### Staff
 
