@@ -75,3 +75,14 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 8: More Regression
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/08-RegressionContinued.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/08-RegressionContinued.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=664f668e-e008-4f44-8600-e09ee6d629b0)
+
+- Lecture 9: Classification. kNN. Cross Validation. Dimensionality Reduction. PCA. MDS.
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/09-ClassificationPCA.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/09-ClassificationPCA.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a)
+
+####Week 6 (Mon Oct 5 - Fri 9 Oct)
+
+- Lab 5: **Machine Learning**
+    - Repository: [2015Lab5](https://github.com/cs109/2015lab5)
+    - Video: [HD: Learning a Model](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e509f996-9633-4b75-a48a-e29246a316db), [HD-Classification]: Still to Come
