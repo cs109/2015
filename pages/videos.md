@@ -79,10 +79,14 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 9: Classification. kNN. Cross Validation. Dimensionality Reduction. PCA. MDS.
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/09-ClassificationPCA.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/09-ClassificationPCA.pdf)
-    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c322c0d5-9cf9-4deb-b59f-d6741064ba8a), [HD-captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=0ea5e572-f2da-4f3f-b54b-df4edf9a1106)
 
 ####Week 6 (Mon Oct 5 - Fri 9 Oct)
 
 - Lab 5: **Machine Learning**
     - Repository: [2015Lab5](https://github.com/cs109/2015lab5)
-    - Video: [HD: Learning a Model](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e509f996-9633-4b75-a48a-e29246a316db), [HD-Classification](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=90e73c64-855c-4b06-afb2-94da608ecfbf)
+    - Video: [HD: Learning a Model](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e509f996-9633-4b75-a48a-e29246a316db), [Learning a Model-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=cdb6ae4c-a4ea-434d-a0c3-cdff3c2cd645) [HD-Classification](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=90e73c64-855c-4b06-afb2-94da608ecfbf)
+
+- - Lecture 10: Classification. kNN. Cross Validation. Dimensionality Reduction. PCA. MDS.
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/10-SVMAndEvaluation.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/10-SVMAndEvaluation.pdf)
+    - Video: Coming soon
