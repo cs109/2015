@@ -87,6 +87,16 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
     - Repository: [2015Lab5](https://github.com/cs109/2015lab5)
     - Video: [HD: Learning a Model](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e509f996-9633-4b75-a48a-e29246a316db), [Learning a Model-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=cdb6ae4c-a4ea-434d-a0c3-cdff3c2cd645) [HD-Classification](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=90e73c64-855c-4b06-afb2-94da608ecfbf)
 
-- - Lecture 10: Classification. kNN. Cross Validation. Dimensionality Reduction. PCA. MDS.
+- Lecture 10: Classification. kNN. Cross Validation. Dimensionality Reduction. PCA. MDS.
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/10-SVMAndEvaluation.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/10-SVMAndEvaluation.pdf)
-    - Video: Coming soon
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=f21fcc8f-93a8-49f6-9ff8-0f339b0728bd)
+
+- Lecture 11: Decision Trees and Random Forests
+   - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/11-DecisionTreesAndRandomForest.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/11-DecisionTreesAndRandomForest.pdf)
+   - Video: Coming soon
+
+####Week 7 (Mon Oct 12 - Fri 16 Oct)
+
+- Lab 6: **Machine Learning 2**
+    - Repository: [2015Lab6](https://github.com/cs109/2015lab6)
+    - Video: [HD: Classification Redux](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=83dfe4c9-fa1b-429c-a84c-839195fbede8), Comparing Models: Coming Soon
