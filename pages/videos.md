@@ -99,12 +99,18 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lab 6: **Machine Learning 2**
     - Repository: [2015Lab6](https://github.com/cs109/2015lab6)
-    - Video: [HD: Classification Redux](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=83dfe4c9-fa1b-429c-a84c-839195fbede8), [HD: Comparing Models](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4676adde-557f-469b-bca8-5ffe868094eb)
+    - Video: [HD: Classification Redux](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=83dfe4c9-fa1b-429c-a84c-839195fbede8), [Classification Redux-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=8ce7995a-c374-4946-b01f-c8d7b0d2614b), [HD: Comparing Models](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4676adde-557f-469b-bca8-5ffe868094eb),[Comparing Models-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=2a006499-49a7-4e2e-b5d8-bfa7a9510132)
 
 - Lecture 12: Ensemble Methods.
-    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/10-SVMAndEvaluation.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/10-SVMAndEvaluation.pdf)
-    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4831ebf0-7832-42c5-9339-5b5e08dd3e92), [HD-Captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=6f374ba5-6e54-432c-9916-fb61fa2327ef)
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/12-Ensemble%20Learning%20and%20Random%20Forests.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/12-Ensemble%20Learning%20and%20Random%20Forests.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4831ebf0-7832-42c5-9339-5b5e08dd3e92), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=6f374ba5-6e54-432c-9916-fb61fa2327ef)
 
 - Lecture 13: Best Practices
    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/13-BestPractices_Recommendations.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/13-BestPractices_Recommendations.pdf)
    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=b33eec92-d049-4353-a904-5054eb718aff)
+
+####Week 8 (Mon Oct 19 - Fri 23 Oct)
+
+- Lab 7: **Ensembles**
+   - Repository: [2015Lab7](https://github.com/cs109/2015lab7)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=0c645a5c-d262-4bb5-a137-3a78db60f3e7)
