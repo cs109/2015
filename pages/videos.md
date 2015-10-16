@@ -85,7 +85,7 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lab 5: **Machine Learning**
     - Repository: [2015Lab5](https://github.com/cs109/2015lab5)
-    - Video: [HD: Learning a Model](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e509f996-9633-4b75-a48a-e29246a316db), [Learning a Model-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=cdb6ae4c-a4ea-434d-a0c3-cdff3c2cd645) [HD-Classification](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=90e73c64-855c-4b06-afb2-94da608ecfbf)
+    - Video: [HD: Learning a Model](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e509f996-9633-4b75-a48a-e29246a316db), [Learning a Model-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=cdb6ae4c-a4ea-434d-a0c3-cdff3c2cd645) [HD-Classification](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=90e73c64-855c-4b06-afb2-94da608ecfbf),[Classification-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=8003c1bc-80a3-44f0-a578-21a5985810f8)
 
 - Lecture 10: SVM, Evaluation.
     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/10-SVMAndEvaluation.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/10-SVMAndEvaluation.pdf)
@@ -93,10 +93,18 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 11: Decision Trees and Random Forests
    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/11-DecisionTreesAndRandomForest.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/11-DecisionTreesAndRandomForest.pdf)
-   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=8892a8b7-25eb-4bc5-80b6-47b9cf681a05)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=8892a8b7-25eb-4bc5-80b6-47b9cf681a05),[HD-Captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=c22cbde8-94dd-42ad-86ef-091448ad02e4)
 
 ####Week 7 (Mon Oct 12 - Fri 16 Oct)
 
 - Lab 6: **Machine Learning 2**
     - Repository: [2015Lab6](https://github.com/cs109/2015lab6)
     - Video: [HD: Classification Redux](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=83dfe4c9-fa1b-429c-a84c-839195fbede8), [HD: Comparing Models](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4676adde-557f-469b-bca8-5ffe868094eb)
+
+- Lecture 12: Ensemble Methods.
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/10-SVMAndEvaluation.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/10-SVMAndEvaluation.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4831ebf0-7832-42c5-9339-5b5e08dd3e92), [HD-Captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=6f374ba5-6e54-432c-9916-fb61fa2327ef)
+
+- Lecture 13: Best Practices
+   - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/13-BestPractices_Recommendations.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/13-BestPractices_Recommendations.pdf)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=b33eec92-d049-4353-a904-5054eb718aff)
