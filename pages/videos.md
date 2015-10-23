@@ -107,10 +107,25 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 13: Best Practices
    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/13-BestPractices_Recommendations.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/13-BestPractices_Recommendations.pdf)
-   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=b33eec92-d049-4353-a904-5054eb718aff)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=b33eec92-d049-4353-a904-5054eb718aff),[HD-Captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=3d4f72cf-9de9-4d07-bc80-cd0f0ab6b82d)
 
 ####Week 8 (Mon Oct 19 - Fri 23 Oct)
 
 - Lab 7: **Ensembles**
    - Repository: [2015Lab7](https://github.com/cs109/2015lab7)
-   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=0c645a5c-d262-4bb5-a137-3a78db60f3e7)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=0c645a5c-d262-4bb5-a137-3a78db60f3e7), [HD-Captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=3dfcfa72-4dad-47fd-b0d7-b72867a3ec87)
+
+- Lecture 14: Best Practices, Recommendations and MapReduce.
+   - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/14-Recommendations_MapReduce.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/14-Recommendations_MapReduce.pdf)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=afee45b9-dcf5-4f29-bc60-871aa78f1cf8), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4199ca62-a007-4b08-b2e2-f752c2dcc01a)
+
+- Lecture 13: MapReduce Combiners and Spark
+  - Slides for MapReduce: [On Github](https://github.com/cs109/2015/blob/master/Lectures/15a-MapReduce_Combiner.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/15a-MapReduce_Combiner.pdf)
+  - Slides and Notebook for Spark: [On Github](), [Download]()
+  - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=10964b32-dcdc-49d2-b766-039b707a5c37)
+
+####Week 9 (Mon Oct 26 - Fri 30 Oct)
+
+- Lab 7: **Vagrant and VirtualBox, AWS, and Spark**
+   - Repository: [2015Lab8](https://github.com/cs109/2015lab8)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=6f1deb9e-051b-4019-99ec-19aee14be9d9)
