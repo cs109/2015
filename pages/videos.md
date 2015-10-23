@@ -121,7 +121,7 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 13: MapReduce Combiners and Spark
   - Slides for MapReduce: [On Github](https://github.com/cs109/2015/blob/master/Lectures/15a-MapReduce_Combiner.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/15a-MapReduce_Combiner.pdf)
-  - Slides and Notebook for Spark: [On Github](), [Download]()
+  - Slides and Notebook for Spark: [On Github](https://github.com/cs109/2015/blob/master/Lectures/15b-Spark.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/15b-Spark.pdf),[Notebook](https://github.com/cs109/2015/blob/master/Lectures/15b-Spark.ipynb)
   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=10964b32-dcdc-49d2-b766-039b707a5c37)
 
 ####Week 9 (Mon Oct 26 - Fri 30 Oct)
