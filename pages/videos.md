@@ -119,7 +119,7 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/14-Recommendations_MapReduce.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/14-Recommendations_MapReduce.pdf)
    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=afee45b9-dcf5-4f29-bc60-871aa78f1cf8), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4199ca62-a007-4b08-b2e2-f752c2dcc01a)
 
-- Lecture 13: MapReduce Combiners and Spark
+- Lecture 15: MapReduce Combiners and Spark
   - Slides for MapReduce: [On Github](https://github.com/cs109/2015/blob/master/Lectures/15a-MapReduce_Combiner.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/15a-MapReduce_Combiner.pdf)
   - Slides and Notebook for Spark: [On Github](https://github.com/cs109/2015/blob/master/Lectures/15b-Spark.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/15b-Spark.pdf),[Notebook](https://github.com/cs109/2015/blob/master/Lectures/15b-Spark.ipynb)
   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=10964b32-dcdc-49d2-b766-039b707a5c37)
