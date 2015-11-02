@@ -122,10 +122,25 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 - Lecture 15: MapReduce Combiners and Spark
   - Slides for MapReduce: [On Github](https://github.com/cs109/2015/blob/master/Lectures/15a-MapReduce_Combiner.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/15a-MapReduce_Combiner.pdf)
   - Slides and Notebook for Spark: [On Github](https://github.com/cs109/2015/blob/master/Lectures/15b-Spark.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/15b-Spark.pdf),[Notebook](https://github.com/cs109/2015/blob/master/Lectures/15b-Spark.ipynb)
-  - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=10964b32-dcdc-49d2-b766-039b707a5c37)
+  - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=10964b32-dcdc-49d2-b766-039b707a5c37),
+  [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=4d529afe-7fe0-42b8-a4d8-50aca797bdcf)
 
 ####Week 9 (Mon Oct 26 - Fri 30 Oct)
 
-- Lab 7: **Vagrant and VirtualBox, AWS, and Spark**
+- Lab 8: **Vagrant and VirtualBox, AWS, and Spark**
    - Repository: [2015Lab8](https://github.com/cs109/2015lab8)
-   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=6f1deb9e-051b-4019-99ec-19aee14be9d9)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=6f1deb9e-051b-4019-99ec-19aee14be9d9), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=6d41b545-6329-49e7-a2b8-ec0d218a5bc5)
+
+- Lecture 16: Bayes Theorem and Bayesian Methods
+     - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/16-BayesianMethods.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/16-BayesianMethods.pdf)
+     - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=233f6c34-306f-481b-8ea5-be33076eb6a8), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=15fcc277-f6f1-4db5-9b8b-f941c49db487)
+
+- Lecture 17: Bayesian Methods Continued
+    - Slides for MapReduce: [On Github](https://github.com/cs109/2015/blob/master/Lectures/17BayesianMethodsContinued.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/17BayesianMethodsContinued.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e63c650e-4cf6-4bee-b57e-f16e927ba25a)
+
+####Week 10 (Mon Nov 2 - Fri 6 Nov)
+
+- Lab 8: **Bayes**
+   - Repository: [2015Lab9](https://github.com/cs109/2015lab9)
+   - Video: [HD-Bayes1](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=2819e79e-d6b9-4988-a0ca-8fc3850ab065), [HD-Bayes2](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=033ddb0d-55c9-4852-8bf1-d73968b20f8e)
