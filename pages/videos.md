@@ -137,10 +137,23 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 17: Bayesian Methods Continued
     - Slides for MapReduce: [On Github](https://github.com/cs109/2015/blob/master/Lectures/17BayesianMethodsContinued.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/17BayesianMethodsContinued.pdf)
-    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e63c650e-4cf6-4bee-b57e-f16e927ba25a)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=e63c650e-4cf6-4bee-b57e-f16e927ba25a), [HD-Captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=35282cbd-94b3-4fd7-bd5e-b3a8f40e72b1)
 
 ####Week 10 (Mon Nov 2 - Fri 6 Nov)
 
-- Lab 8: **Bayes**
+- Lab 9: **Bayes**
    - Repository: [2015Lab9](https://github.com/cs109/2015lab9)
-   - Video: [HD-Bayes1](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=2819e79e-d6b9-4988-a0ca-8fc3850ab065), [HD-Bayes2](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=033ddb0d-55c9-4852-8bf1-d73968b20f8e)
+   - Video: [HD-Bayes1](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=2819e79e-d6b9-4988-a0ca-8fc3850ab065),[HD-Bayes1-Captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=7ab74365-fff6-4419-8bb5-7e0a31e4545c) [HD-Bayes2](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=033ddb0d-55c9-4852-8bf1-d73968b20f8e),[HD-Bayes2-Captions](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=d0af29d8-67fc-4e87-8394-a0d266fde6c2)
+
+- Lecture 18: Bayesian Methods Continued,Text Data
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/18TextData.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/18TextData.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=8b18c591-27e0-4ea9-8834-8bab321b166a), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=432bb538-45a0-41d3-bb4e-f7b81b0fe811)
+
+- Lecture 19: Interactive Visualization
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=51e980dd-56a4-4b44-aec5-516ed9c53a2c)
+
+####Week 11 (Mon Nov 9 - Fri 13 Nov)
+
+   - Lab 10: **Text and Clustering**
+      - Repository: [2015Lab10](https://github.com/cs109/2015lab10)
+      - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=52e74ae5-f08b-4bf8-b0a2-b0eeae127856)
