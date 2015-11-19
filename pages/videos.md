@@ -164,11 +164,15 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 
 - Lecture 20: Effective Presentations
   - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/20-Presentations.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/20-Presentations.pdf)
-  - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=d213b305-65a8-4ee8-95d3-4dfc4a437205)
+  - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=d213b305-65a8-4ee8-95d3-4dfc4a437205),[HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=34758fd3-9896-4461-966a-7971e349fee3)
 
 
 ####Week 12 (Mon Nov 16 - Fri 20 Nov)
 
 - Lab 10: **Projects, and an example**
 - Repository: [2015Lab11](https://github.com/cs109/2015lab11)
-- Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=534829b6-1773-4e1d-b25d-aa2a2fbd2b95)
+- Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=534829b6-1773-4e1d-b25d-aa2a2fbd2b95),[HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=b1d70f08-4c37-4ca7-9fd1-769f4a5adbd2)
+
+- Lecture 21: Experimental Design
+   - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/22ExperimentalDesign.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/22ExperimentalDesign.pdf)
+   - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=15117337-3199-4265-a39a-9a0c8772b9df), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=94e52a8d-6557-48c4-b003-b5ec84d2a1e2)
