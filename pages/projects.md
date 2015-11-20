@@ -10,11 +10,19 @@ For your final assignment in this course you will work on a month-long data scie
 **Project Dates**
 
 A rough timeline of your project might look something like this:
-- Week of Nov 23-27: Data collection and cleaning finished
-- Week of Nov 30- Dec 4 : Exploratory analysis finished, some modeling/visualizations, start website
-- Week of Dec 7-10 : Modeling and/or prediction finished, website/screencast/(maybe) visualizations left
-- December 10: Final project due (11:59 pm)
-- December 15: Presentations shown in class, location/exact time to be updated.
+
+
+- *Week of Nov 23-27*: Data collection and cleaning finished
+
+- *Week of Nov 30- Dec 4*: Exploratory analysis finished, some modeling/visualizations, start website
+
+- *Week of Dec 7-10*: Modeling and/or prediction finished, website/screencast/(maybe) visualizations left
+
+- *December 10*: Final project due (11:59 pm)
+
+- *December 15*: Presentations shown in class, location/exact time to be updated.
+
+
 
 Of course each project will have very different timelines, this is a rough guide to help you plan ahead. 
 
