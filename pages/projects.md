@@ -7,6 +7,18 @@ title: CS109 Projects
 
 For your final assignment in this course you will work on a month-long data science project. The goal of the project is to go through the complete data science process to answer questions you have about some topic of your own choosing. You will acquire the data, design your visualizations, run statistical analysis, and communicate the results. 
 
+**Project Dates**
+
+A rough timeline of your project might look something like this:
+- Week of Nov 23-27: Data collection and cleaning finished
+- Week of Nov 30- Dec 4 : Exploratory analysis finished, some modeling/visualizations, start website
+- Week of Dec 7-10 : Modeling and/or prediction finished, website/screencast/(maybe) visualizations left
+- December 10: Final project due (11:59 pm)
+- December 15: Presentations shown in class, location/exact time to be updated.
+
+Of course each project will have very different timelines, this is a rough guide to help you plan ahead. 
+
+
 **Project Team**
 
 You will work closely with other classmates in a **3-4 person project team**. You can come up with your own teams and use Piazza to find prospective team members. If you can't find a partner we will team you up randomly. We recognize that individual schedules, different time zones, preferences, and other constraints might limit your ability to work in a team. If this the case, ask us for permission to work alone. In general, we do not anticipate that the grades for each group member will be different. However, we reserve the right to assign different grades to each group member based on peer assessments (see below).
