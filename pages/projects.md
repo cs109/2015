@@ -18,13 +18,17 @@ A rough timeline of your project might look something like this:
 
 - *Week of Dec 7-10*: Modeling and/or prediction finished, website/screencast/(maybe) visualizations left
 
+
+Of course each project will have very different timelines, this is a rough guide to help you plan ahead. 
+
+The **Hard Deadlines** for your projects are:
+
 - *December 10*: Final project due (11:59 pm)
 
 - *December 15*: Presentations shown in class, location/exact time to be updated.
 
+Any changes that you make to your github repositories and webpages **after the due date will be ignored**. Please have all your work submitted and tested (websites, screencasts, etc.) before the deadline. 
 
-
-Of course each project will have very different timelines, this is a rough guide to help you plan ahead. 
 
 
 **Project Team**
