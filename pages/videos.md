@@ -184,8 +184,8 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 ####Week 13 (Mon Nov 30 - Fri 4 Dec)
 
 - Lecture 23: Guest Lecture: Building Data Science
- - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=128b8123-a1a6-493c-bac7-a932234374a0)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=128b8123-a1a6-493c-bac7-a932234374a0)
 
 - Lecture 24: Wrapup, and where to go from here.
- - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/23-WrapUp.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/23-WrapUp.pdf)
- - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=67735f84-d3c9-406e-86cd-4bfbb38ef1cd)
+    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/23-WrapUp.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/23-WrapUp.pdf)
+    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=67735f84-d3c9-406e-86cd-4bfbb38ef1cd)
