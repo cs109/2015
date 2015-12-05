@@ -176,3 +176,16 @@ We've also started a YouTube [channel](https://www.youtube.com/channel/UC0-KaiZF
 - Lecture 21: Experimental Design
    - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/22ExperimentalDesign.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/22ExperimentalDesign.pdf)
    - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=15117337-3199-4265-a39a-9a0c8772b9df), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=94e52a8d-6557-48c4-b003-b5ec84d2a1e2)
+
+- Lecture 22: Deep Networks
+  - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/23-DeepLearning.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/23-DeepLearning.pdf)
+  - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=3c8c045a-7b5b-41a1-9b96-9e07a7cfb8f5), [HD-CAPTIONS](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=12bfea44-634f-4bc0-b88d-0aca05a3c289)
+
+####Week 13 (Mon Nov 30 - Fri 4 Dec)
+
+- Lecture 23: Guest Lecture: Building Data Science
+ - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=128b8123-a1a6-493c-bac7-a932234374a0)
+
+- Lecture 24: Wrapup, and where to go from here.
+ - Slides: [On Github](https://github.com/cs109/2015/blob/master/Lectures/23-WrapUp.pdf), [Download](https://github.com/cs109/2015/raw/master/Lectures/23-WrapUp.pdf)
+ - Video: [HD](https://matterhorn.dce.harvard.edu/engage/player/watch.html?id=67735f84-d3c9-406e-86cd-4bfbb38ef1cd)
