@@ -1,0 +1,17 @@
+33|Joseph|Biden||D
+36|Samuel|Brownback||R
+34|Hillary|Clinton|R.|D
+39|Christopher|Dodd|J.|D
+26|John|Edwards||D
+22|Rudolph|Giuliani||R
+24|Mike|Gravel||D
+16|Mike|Huckabee||R
+30|Duncan|Hunter||R
+31|Dennis|Kucinich||D
+37|John|McCain||R
+20|Barack|Obama||D
+32|Ron|Paul||R
+29|Bill|Richardson||D
+35|Mitt|Romney||R
+38|Tom|Tancredo||R
+41|Fred|Thompson|D.|R
