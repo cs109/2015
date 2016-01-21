@@ -33,7 +33,7 @@ The course is also listed as AC209, STAT121, and E-109.
 * Rahul Dave, Head TF
 * And many others
 
-Before contacting the staff, please be aware, that we will not publicly release the homework assignments from this year. If you want to follow the course online without registering, you can use the assignments from 2013 and 2014, available at the links below. If you still would like to contact the staff you can do so at <a href="mailto:staff@cs109.org">staff at cs109 dot org</a>.
+Please be aware, that we will not publicly release the homework assignments from this year. If you want to follow the course online without registering, you can use the assignments from 2013 and 2014, available at the links below. 
 
 #### Material from CS 109 taught in Fall 2014
 
