@@ -1,14 +1,14 @@
 autoscale:true
 
-#[fit] Databases, SQL, and Pandas
+# [fit] Databases, SQL, and Pandas
 
-#cs109, Fall 2015 (#cs109)
+# cs109, Fall 2015 (#cs109)
 
 # Rahul Dave
 
 `rahuldave@gmail.com`, @rahuldave, `staff@cs109.org`
 
-#ANNOUNCEMENTS
+# ANNOUNCEMENTS
 
 Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 
@@ -27,7 +27,7 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 ![fit](venn.png)
 
 ---
-#[fit]Data Scientist: Sexiest Job of the 21st Century
+# [fit]Data Scientist: Sexiest Job of the 21st Century
 
 >It’s important that our data team wasn’t comprised solely of mathematicians
 >and other “data people.” It’s a fully integrated product group that includes
@@ -42,7 +42,7 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 
 ---
 
-#[fit] DATA ENGINEERING
+# [fit] DATA ENGINEERING
 
 - **compute**: code, python, R, julia, spark, hadoop
 - **storage/database**: git, SQL, NoSQL, HBase, disk, memory
@@ -53,7 +53,7 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 
 ---
 
-#What kind of data storage do you need?
+# What kind of data storage do you need?
 
 - **memory**
 - **disk**: what if we do not fit?
@@ -63,7 +63,7 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 
 ---
 
-#What kind of data access do you need?
+# What kind of data access do you need?
 
 - **relational**: pandas, SQL: Postgres, sqlite, Hbase, VoltDB
 - **document oriented**: MongoDB, CouchDB
@@ -72,7 +72,7 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 
 ---
 
-#Today we'll focus on relational
+# Today we'll focus on relational
 
 - What is a relational Database?
 - What Grammar of Data does it follow?
@@ -81,16 +81,16 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 
 ---
 
-#[fit]Relational Database
+# [fit]Relational Database
 
 
-##_Dont say_: seek 20 bytes onto disk and pick up from there. The next row is 50 bytes hence
+## _Dont say_: seek 20 bytes onto disk and pick up from there. The next row is 50 bytes hence
 
-##_Say_: select data from a set. I dont care where it is, just get the row to me.
+## _Say_: select data from a set. I dont care where it is, just get the row to me.
 
 ---
 
-#[fit]Relational Database(contd)
+# [fit]Relational Database(contd)
 
 - A collection of tables related to each other through common data values.
 - Rows represent attributes of something
@@ -102,7 +102,7 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 
 ![fit](contributors.png)
 
-##Contributors
+## Contributors
 
 ![90%, left](candidates.png) Candidates
 
@@ -110,7 +110,7 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 
 ![fit](scales.png)
 
-#[fit]Scales of Measurement
+# [fit]Scales of Measurement
 
 - Quantitative (Interval and Ratio)
 - Ordinal
@@ -119,7 +119,7 @@ Class in in Science Center B starting THIS thursday, 17th Sep, 2015!
 [^3]: S. S. Stevens, Science, New Series, Vol. 103, No. 2684 (Jun. 7, 1946), pp. 677-680
 
 ---
-#[fit]Grammar of Data
+# [fit]Grammar of Data
 
 Been there for a while (SQL, Pandas), formalized in `dplyr`[^4].
 
@@ -130,7 +130,7 @@ Been there for a while (SQL, Pandas), formalized in `dplyr`[^4].
 [^4]: Hadley Wickham: https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html
 
 ---
-#Why bother
+# Why bother
 
 - learn hot to do core data manipulations, no matter what the system
 - relational databases critical for mon-memory fits. Big installed base.
@@ -139,13 +139,13 @@ Been there for a while (SQL, Pandas), formalized in `dplyr`[^4].
 ---
 ![fit](sqlexecution.png)
 
-#[fit]GO TO NOTEBOOK[^5]
+# [fit]GO TO NOTEBOOK[^5]
 
 [^5]: Diagram from 7 databases in 7 weeks, Pragmatic Programmers
 
 ---
 
-#RDBMS when:
+# RDBMS when:
 
 - data structure regularity is known
 - transactions are required
@@ -155,4 +155,4 @@ Been there for a while (SQL, Pandas), formalized in `dplyr`[^4].
 
 ---
 
-#[fit]FIN
+# [fit]FIN
