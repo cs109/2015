@@ -1,16 +1,16 @@
 # 2015
 
-##Lectures
+## Lectures
 
 The Lecture slides up to Lecture 1 are in this repository. Just click on the Lectures Folder.
 
-##Lab 1
+## Lab 1
 
 https://github.com/cs109/2015lab1
 
 The git lab can be read [here](https://github.com/cs109/2015lab1/blob/master/Lab1-git.ipynb).
 
-##HW 0
+## HW 0
 
 You can read it [here](https://github.com/cs109/2015lab1/blob/master/hw0.ipynb).
 
@@ -26,7 +26,7 @@ For this reason, we have included HW0 in the lab link above.
 
 At that point, homework repositories will be created for you.
 
-##Initial Workflow
+## Initial Workflow
 
 - read hw 0, and do the survey and installations
 - then read the git lab in lab 1 linked from within.
