@@ -36,15 +36,17 @@ The course is also listed as AC209, STAT121, and E-109.
 * 2019: Protopapas, Rader, Tanner and Glickman 
 	* [CS109A](https://harvard-iacs.github.io/2019-CS109A)
 	* [CS109B](https://harvard-iacs.github.io/2019-CS109B)
-* 2018 
-
-* 2014
+* 2018 Protopapas, Rader, Tanner and Glickman 
+	* [CS109A](https://harvard-iacs.github.io/2018-CS109A)
+	* [CS109B](https://harvard-iacs.github.io/2018-CS109B)
+* 2017 Protopapas, Rader
+	* [CS109A] (https://harvard-iacs.github.io/2017-CS109A/)
+	* [CS109B] (https://harvard-iacs.github.io/2017-CS109A/)
+* 2016 
+* 2015 Blitzstein, Pfister, Kaynig-Fittkau
+	* [CS109](https://github.com/cs109/2015) 
+* 2014 
 	* [CS109](http://cs109.github.io/2014/index.html).
-* 2013 
-	* []()
+* 2013 Blitzstein, Pfister
+	* [CS109](https://github.com/cs109/content)
 
-#### Material from CS 109 taught in Fall 2013
-
-* [Homework, labs and solutions](https://github.com/cs109/content)
-
-** TESTING 
