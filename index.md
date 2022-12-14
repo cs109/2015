@@ -5,7 +5,7 @@ title: CS109 Data Science
 
 # Harvard's CS109 Data Science
 
-<span style="font-family:Karla; font-size:4em;">
+<span style="font-family:Karla; font-size:2em;">
 Harvard's CS109A course is an introductory course in data science, designed for students with some prior programming experience. The course covers a broad range of topics in data science, including data cleaning, visualization, analysis, and machine learning. Students learn to use tools such as Python to work with data and build statistical models. The course also includes a significant group project component, where students work in teams to apply their skills to a real-world data science problem. Overall, the course aims to provide students with a solid foundation in data science and prepare them for further study in the field.
 
 <br/><br/>
