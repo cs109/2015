@@ -3,9 +3,9 @@ layout: frontpage
 title: CS109 Data Science
 ---
 
-# CS109 Data Science
-<font size="5"> 
-
+# Harvard's CS109 Data Science
+```
+<span style="font-family:Papyrus; font-size:4em;">
 Harvard's CS109A course is an introductory course in data science, designed for students with some prior programming experience. The course covers a broad range of topics in data science, including data cleaning, visualization, analysis, and machine learning. Students learn to use tools such as Python to work with data and build statistical models. The course also includes a significant group project component, where students work in teams to apply their skills to a real-world data science problem. Overall, the course aims to provide students with a solid foundation in data science and prepare them for further study in the field.
 
 <br/><br/>
@@ -18,9 +18,12 @@ CS109B is a more advanced course in data science at Harvard, focused on topics i
 
 CS109 course at Harvard was originally taught as a one-semester course by Hanspeter Pfister and Joe Blister. The course has since expanded to two semesters, CS109A and CS109B, and has been taught by Pavlos Protopapas from SEAS and Natesh Pillai, Kevin Rader and Mark Glickman.  
 
-</font>
+</span>
 
 <br/><br/>
+```
+
+
 
 
 
