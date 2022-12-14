@@ -10,13 +10,13 @@ highlighter: pygments
 #
 title : CS109 Data Science
 author :
-  name : Rahul Dave
-  email : rahuldave@github.com
+  name : Pavlos Protopapas
+  email : protopapas@gmail.com
   github : cs109
   twitter :
   feedburner : nil
 
-production_url : http://cs109.github.io/2015
+production_url : http://cs109.github.io/
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -49,7 +49,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : http://cs109.github.io/2015
+  BASE_PATH : http://cs109.github.io/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
