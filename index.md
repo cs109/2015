@@ -20,6 +20,7 @@ The course is also listed as AC209, STAT121, and E-109.
 
 #### Instructors
 * Pavlos Protopapas, SEAS
+* Natesh Pillai, Statistics
 * Kevin Rader, Statistics
 * Mark Glickman, Statistics
 * Chris Tanner, SEAS
