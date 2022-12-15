@@ -12,7 +12,9 @@ CS109 course at Harvard was originally taught as a one-semester course by Hanspe
 
 <br/><br/>
 
+<img src="figures/Timeline.jpg" alt="Workplace" usemap="#workmap">  
 
+<map name="timeline">   <area shape="rect" coords="34,44,270,350" alt="2013" href="2013.htm">   <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">   <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm"> </map>
 
 ADD figure of the history 
 
