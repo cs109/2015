@@ -9,7 +9,6 @@ title: CS109 Data Science blah
 <br/><br/>
 CS109 course at Harvard was originally taught as a one-semester course by Hanspeter Pfister and Joe Blister. The course has since expanded to two semesters, CS109A and CS109B, and has been taught by Pavlos Protopapas from SEAS and Natesh Pillai, Kevin Rader and Mark Glickman.  
 </div>
-
 <br/><br/>
 
 
@@ -19,7 +18,8 @@ CS109 course at Harvard was originally taught as a one-semester course by Hanspe
 <map name="workmap">
   <area shape="rect" coords="50,200,190,330" alt="2014" href="pages/2014">
   <area shape="rect" coords="190,300, 333,330" alt="2015" href="pages/2015">
-  <area shape="rect" coords="333,300,450, 330" alt="2016" href="pages/2016">
+  <area shape="rect" coords="333,300,450,330" alt="2016" href="pages/2016">
+  <area shape="rect" coords="1300,500,1450,700" alt="HarvardX" href="pages/HarvardX">
 </map>
 
 
