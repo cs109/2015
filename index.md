@@ -14,62 +14,15 @@ CS109 course at Harvard was originally taught as a one-semester course by Hanspe
 
 
 
-<img src="figures/Timeline.jpg" alt="Workplace" usemap="#workmap">
+<img src="figures/Timeline.png" alt="Workplace" usemap="#workmap">
 
 <map name="workmap">
-  <area shape="rect" coords="34,140,370,170" alt="Computer" href="pages/2013">
-  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
-  <area shape="circle" coords="337,300,44" alt="Coffee" href="coffee.htm">
+  <area shape="rect" coords="50,100,190,330" alt="2014" href="pages/2013">
+  <area shape="rect" coords="190,100, 333,330" alt="2015" href="phone.htm">
+  <area shape="rect" coords="333,100,450, 330" alt="2016" href="coffee.htm">
 </map>
 
 
 
 
-#### Instructors
-
-* Pavlos Protopapas, SEAS 
-* Natesh Pillai, Statistics
-* Kevin Rader, Statistics
-* Mark Glickman, Statistics
-* Chris Tanner, SEAS
-* Joe Blitzstein, Statistics 
-* Hanspeter Pfister, Computer Science
-* Verena Kaynig-Fittkau, Computer Science 
-
-
-
-CS109 on HarvardX. 
-
-In 2022, a module based on CS109A was released on HarvardX. 
-
-
-
-#### Material from CS109 taught from present to 2013
-
-
-
-* 2021: Protopapas, Rader, Tanner and Glickman  
-  * CS109A
-  * CS109N 
-
-* 2020: Protopapas, Rader, Tanner and Glickman 
-	* CS109A
-	* [CS109B](https://harvard-iacs.github.io/2020-CS109B)
-	* 
-* 2019: Protopapas, Rader, Tanner and Glickman 
-	* [CS109A](https://harvard-iacs.github.io/2019-CS109A)
-	* [CS109B](https://harvard-iacs.github.io/2019-CS109B)
-* 2018 Protopapas, Rader, Tanner and Glickman 
-	* [CS109A](https://harvard-iacs.github.io/2018-CS109A)
-	* [CS109B](https://harvard-iacs.github.io/2018-CS109B)
-* 2017 Protopapas, Rader
-	* [CS109A](https://harvard-iacs.github.io/2017-CS109A/)
-	* [CS109B](https://harvard-iacs.github.io/2017-CS109A/)
-* 2016 
-* 2015 Blitzstein, Pfister, Kaynig-Fittkau
-	* [CS109](https://github.com/cs109/2015) 
-* 2014 
-	* [CS109](http://cs109.github.io/2014/index.html).
-* 2013 Blitzstein, Pfister
-	* [CS109](https://github.com/cs109/content)
 
