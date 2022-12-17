@@ -19,8 +19,9 @@ CS109 course at Harvard was originally taught as a one-semester course by Hanspe
   <area alt="2014" title="2014" href="pages/2014" coords="34,139,141,192" shape="rect">
   <area alt="2015" title="2015" href="pages/2015" coords="175,135,266,188" shape="rect">
   <area alt="2016" title="2016" href="pages/2016" coords="316,141,407,192" shape="rect">
-  <area alt="" title="" href="" coords="587,27,696,87" shape="rect">
+  <area alt="2018" title="2018" href="https://harvard-iacs.github.io/2018-CS109B/" coords="587,27,696,87" shape="rect">
 </map>
+
 
 
 
