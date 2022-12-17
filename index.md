@@ -32,11 +32,12 @@ From 2013 to 2015 was taught as a one-semester course by Hanspeter Pfister and J
   <ul> 
 <li> If interested in a verified certificate from edX, enroll at cs109a.edx.org instead.</li>
 <li> If interested in a professional certificate from edX
+<li>If interested in transfer credit and accreditation from Harvard Extension School, register at web.dce.harvard.edu/extension/csci/einstead. 
   </ul>
+</div>
 
- 
 
-If interested in transfer credit and accreditation from Harvard Extension School, register at web.dce.harvard.edu/extension/csci/einstead.
+
 
 
 
