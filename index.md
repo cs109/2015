@@ -5,7 +5,7 @@ title: CS109 Data Science blah
 
 # CS109: Harvard's Data Science
 
-<video controls autoplay controls muted><source src="figures/Tree.mp4"></video>
+<video autoplay controls muted><source src="figures/Tree.mp4"></video>
 
 
 
@@ -19,7 +19,7 @@ CS109 course at Harvard was originally taught as a one-semester course by Hanspe
 
 
 
-<img src="figures/Timeline.png" usemap="#image_map">
+<img src="figures/Timeline/Slide1.png" usemap="#image_map">
 
 <map name="image_map">
   <area alt="2014" title="2014" href="pages/2014" coords="34,139,141,192" shape="rect">
