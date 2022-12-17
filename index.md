@@ -5,7 +5,7 @@ title: CS109 Data Science blah
 
 # CS109: Harvard's Data Science
 
-<video src="/Users/pavlosprotopapas/Teaching/CS109WEBPAGE/2015/figures/Tree.mp4"></video>
+<video controls autoplay><source src="figures/Tree.mp4"></video>
 
 
 
