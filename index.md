@@ -14,12 +14,14 @@ CS109 course at Harvard was originally taught as a one-semester course by Hanspe
 
 
 <img src="figures/Timeline.png" alt="Workplace" usemap="#workmap">
+
 <map name="workmap">
-  <area shape="rect" coords="50,200,190,330" alt="2014" href="pages/2014">
-  <area shape="rect" coords="190,300, 333,330" alt="2015" href="pages/2015">
-  <area shape="rect" coords="333,300,450,330" alt="2016" href="pages/2016">
-  <area shape="rect" coords="1300,500,1450,700" alt="HarvardX" href="pages/HarvardX">
+  <area shape="rect" coords="35,241,150,330" alt="2014" href="pages/2014">
+  <area shape="rect" coords="150,241, 333,330" alt="2015" href="pages/2015">
+  <area shape="rect" coords="333,241,450,330" alt="2016" href="pages/2016">
+  <area shape="rect" coords="1300,241,1450,700" alt="HarvardX" href="pages/HarvardX">
 </map>
+
 
 
 
