@@ -15,11 +15,14 @@ CS109 course at Harvard was originally taught as a one-semester course by Hanspe
 
 <img src="figures/Timeline.png" usemap="#image-map">
 
-<map name="image-map">
-    <area target="" alt="2017" title="2017" href="https://harvard-iacs.github.io/2017-CS109A/" coords="291,143,714,188" shape="rect">
-    <area target="" alt="2018" title="2018" href="https://harvard-iacs.github.io/2018-CS109A/" coords="751,145,853,188" shape="rect">
-    <area target="" alt="2019" title="2019" href="https://harvard-iacs.github.io/2019-CS109A/" coords="880,142,1004,184" shape="rect">
+<map name="image_map">
+  <area alt="2014" title="2014" href="pages/2014" coords="34,139,141,292" shape="rect">
+  <area alt="2015" title="2015" href="pages/2015" coords="175,135,266,188" shape="rect">
+  <area alt="" title="" href="" coords="316,141,407,192" shape="rect">
+  <area alt="" title="" href="" coords="587,27,696,87" shape="rect">
 </map>
+
+
 
 
 
