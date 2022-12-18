@@ -26,12 +26,11 @@ To view the individual previous versions of the course, click on the diagram bel
 ## How to Take this Course
 <div style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;"> 
   Even if you are not a student at Harvard, you are welcome to “follow” this course for free by working through the course material  that are publicly available here.  
-  <ul  style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;"> 
+<ul  style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;"> 
 <li> If interested in a verified certificate from edX, enroll <a href="https://www.edx.org/course/introduction-to-data-science-with-python">here </a> instead.</li>
-    <li>If interested in transfer credit and accreditation from <a href="https://courses.dce.harvard.edu"> Harvard Extension School</a>,instead. 
+<li>If interested in transfer credit and accreditation from <a href="https://courses.dce.harvard.edu"> Harvard Extension School</a>, instead.  </li> 
   </ul>
 </div>
-
 
 
 
