@@ -31,11 +31,11 @@ To view the individual previous versions of the course, click on the diagram bel
 <li style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;">If interested in transfer credit and accreditation from <a href="https://courses.dce.harvard.edu"> Harvard Extension School</a>, instead.  </li> 
 </ul>
 </div>
-<a href='pages/2013.md'> 2013 </a>  <br/> 
-<a href='pages/2014.md'> 2014 </a>  <br/> 
-<a href='pages/2015.md'> 2015 </a>  <br/> 
-<a href='pages/2016A.md'> 2016 CS109A </a>  <br/> 
-<a href='pages/2016B.md'> 2016 CS109B </a>  <br/> 
+<a href='pages/2013'> 2013 </a>  <br/> 
+<a href='pages/2014'> 2014 </a>  <br/> 
+<a href='pages/2015'> 2015 </a>  <br/> 
+<a href='pages/2016A'> 2016 CS109A </a>  <br/> 
+<a href='pages/2016B'> 2016 CS109B </a>  <br/> 
 <a href='https://harvard-iacs.github.io/2017-CS109A/'> 2017 CS109A </a>  <br/> 
 <a href='https://harvard-iacs.github.io/2017-CS109B/'> 2017 CS109B </a>  <br/> 
 <a href='https://harvard-iacs.github.io/2018-CS109A/'> 2018 CS109A </a>  <br/> 
