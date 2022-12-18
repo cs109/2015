@@ -29,7 +29,7 @@ To view the individual previous versions of the course, click on the diagram bel
 <ul  style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;"> 
 <li> If interested in a verified certificate from edX, enroll <a href="https://www.edx.org/course/introduction-to-data-science-with-python">here </a> instead.</li>
 <li>If interested in transfer credit and accreditation from <a href="https://courses.dce.harvard.edu"> Harvard Extension School</a>, instead.  </li> 
-  </ul>
+</ul>
 </div>
 
 
