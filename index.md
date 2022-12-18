@@ -1,6 +1,6 @@
 ---
 #layout: frontpage
-title: CS109 Data Science blah
+title: 
 ---
 
 # CS109: Harvard's Data Science
