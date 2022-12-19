@@ -1,0 +1,18 @@
+/* Modifications to http://kevinburke.bitbucket.org/markdowncss/markdown.css */
+
+ul,ol {
+    margin: 0 0 0 35px;
+}
+
+a
+{
+  color: purple;
+  text-decoration: none;
+  background-color: transparent;
+}
+
+a:hover
+{
+  color: purple;
+  background: #CAFFFF;
+}
