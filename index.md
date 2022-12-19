@@ -5,7 +5,7 @@ title:
 
 # CS109: Harvard's Data Science
 <center> 
-<img src="figures/Tree2.gif">
+<img src="figures/Tree2.gif" width='500'>
 </center> 
 
 
