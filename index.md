@@ -16,8 +16,8 @@ From 2013 to 2015 was taught as a one-semester course by Hanspeter Pfister and J
 <br> <br>
 To view the individual previous versions of the course, click on the diagram below.
 </div>
-
 <img src="figures/Timeline.png" usemap="#image_map" width="950"> 
+
 <map name="image_map">
 <area shape="circle"  coords="80,186,30" target="" alt="kosten1" title="kosten1" href="pages/2013"  >
 <area shape="circle"  coords="160,186,30" target="" alt="kosten2" title="kosten2" href="pages/2014"  >
@@ -28,7 +28,7 @@ To view the individual previous versions of the course, click on the diagram bel
 <area shape="circle"  coords="530,132,30" target="" alt="kosten2" title="2019A" href="https://harvard-iacs.github.io/2019-CS109A/"  >
 <area shape="circle"  coords="595,132,30" target="" alt="kosten2" title="2020A" href="https://harvard-iacs.github.io/2020-CS109A/"  >
 <area shape="circle"  coords="667,132,30" target="" alt="kosten2" title="2021A" href="https://harvard-iacs.github.io/2021-CS109A/" >
-<area shape="circle"  coords="344,240,30" target="" alt="kosten2" title="2016B" href="pages/2016A"  >
+<area shape="circle"  coords="344,240,30" target="" alt="kosten2" title="2016B" href="pages/2016B"  >
 <area shape="circle"  coords="405,240,30" target="" alt="kosten2" title="2017B" href="https://harvard-iacs.github.io/2017-CS109B/"  >
 <area shape="circle"  coords="465,240,30" target="" alt="kosten2" title="2018B" href="https://harvard-iacs.github.io/2018-CS109B/"  >
 <area shape="circle"  coords="530,240,30" target="" alt="kosten2" title="2019B" href="https://harvard-iacs.github.io/2019-CS109B/"  >
