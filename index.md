@@ -17,11 +17,7 @@ From 2013 to 2015 was taught as a one-semester course by Hanspeter Pfister and J
 To view the individual previous versions of the course, click on the diagram below.
 </div>
 
-
-
-
-<img src="figures/Timeline.png" usemap="#image_map" width="950">  
-
+<img src="figures/Timeline.png" usemap="#image_map" width="950"> 
 <map name="image_map">
 <area shape="circle"  coords="80,186,30" target="" alt="kosten1" title="kosten1" href="pages/2013"  >
 <area shape="circle"  coords="160,186,30" target="" alt="kosten2" title="kosten2" href="pages/2014"  >
@@ -42,7 +38,6 @@ To view the individual previous versions of the course, click on the diagram bel
 <area shape="circle"  coords="751,333,30" target="" alt="kosten2" title="2021B" href="https://learning.edx.org/course/course-v1:HarvardX+CS109x+1T2022/home" >
 </map>
 
-
 ## How to Take this Course
 <div style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;"> 
   Even if you are not a student at Harvard, you are welcome to “follow” this course for free by working through the course material  that are publicly available <a href="">here</a>.  
@@ -51,24 +46,7 @@ To view the individual previous versions of the course, click on the diagram bel
 <li style="font-family:Karla; font-size:1.3rem; color:#707070;line-height:1.6;">If interested in transfer credit and accreditation from <a href="https://courses.dce.harvard.edu"> Harvard Extension School</a>, instead.  </li> 
 </ul>
 </div>
-<a href='pages/2013'> 2013 </a>  <br/> 
-<a href='pages/2014'> 2014 </a>  <br/> 
-<a href='pages/2015'> 2015 </a>  <br/> 
-<a href='pages/2016A'> 2016 CS109A </a>  <br/> 
-<a href='pages/2016B'> 2016 CS109B </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2017-CS109A/'> 2017 CS109A </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2017-CS109B/'> 2017 CS109B </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2018-CS109A/'> 2018 CS109A </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2018-CS109B/'> 2018 CS109B </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2019-CS109A/'> 2019 CS109A </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2019-CS109B/'> 2019 CS109B </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2020-CS109A/'> 2020 CS109A </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2020-CS109B/'> 2020 CS109B </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2021-CS109A/'> 2021 CS109A </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2021-CS109B/'> 2021 CS109B </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2022-CS109A/'> 2022 CS109A </a>  <br/> 
-<a href='https://harvard-iacs.github.io/2022-CS109B/'> 2022 CS109B </a>  <br/> 
-<a href="https://learning.edx.org/course/course-v1:HarvardX+CS109x+1T2022/home"> HarvardX module1 </a>
+
 
 
 
