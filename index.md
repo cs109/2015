@@ -18,39 +18,15 @@ To view the individual previous versions of the course, click on the diagram bel
 </div>
 
 
-<script> 
-*:focus-visible {
-    outline: 2px dashed #000 !important;
-    z-index: 1010;
-    outline-offset: 0;
-    -webkit-box-shadow: 0 0 0 2px #fff !important;
-    box-shadow: 0 0 0 2px #fff !important;
-}
-map {
-    display: inline-block;
-}
-</script> 
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Imagemap</title>
-</head>
-
-
-<img src="figures/Timeline.png" usemap="#image_map">
+<img src="figures/Timeline.png" usemap="#image_map"> 
 
 <map name="image-map">
-	<area target="" alt="kosten" title="kosten" href="https://learning.edx.org/course/course-v1:HarvardX+CS109x+1T2022/home", coords="750,332,792, 400"  shape="rect">
-    </map>
-
-
-
-<map name="image-map">
-    <area target="" alt="" title="" href="https://learning.edx.org/course/course-v1:HarvardX+CS109x+1T2022/home" coords="750,332,792, 400" shape="rect">
+	<area target="" alt="kosten" title="kosten" href="pages/214" coords="0,0,1000,1000"  shape="rect">
 </map>
+
+
 
 
 
