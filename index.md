@@ -20,9 +20,24 @@ To view the individual previous versions of the course, click on the diagram bel
 
 
 
-<img src="figures/Timeline.png" usemap="#image_map">  <map name="image_map">
-	<area shape="rect"  coords="0,0,1000,1000" target="" alt="kosten" title="kosten" href="pages/214"  >
+<img src="figures/Timeline.png" usemap="#image_map" width="950">  
+
+<map name="image_map">
+<area shape="circle"  coords="80,186,30" target="" alt="kosten1" title="kosten1" href="pages/2013"  >
+<area shape="circle"  coords="160,186,30" target="" alt="kosten2" title="kosten2" href="pages/2014"  >
+<area shape="circle"  coords="240,186,30" target="" alt="kosten2" title="kosten3" href="pages/2015"  >
+<area shape="circle"  coords="344,132,30" target="" alt="kosten2" title="kosten4" href="pages/2016A"  >
+<area shape="circle"  coords="405,132,30" target="" alt="kosten2" title="2017A" href="https://harvard-iacs.github.io/2017-CS109A/"  >
+<area shape="circle"  coords="465,132,30" target="" alt="kosten2" title="2018A" href="https://harvard-iacs.github.io/2018-CS109A/"  >
+<area shape="circle"  coords="525,132,30" target="" alt="kosten2" title="2019A" href="https://harvard-iacs.github.io/2019-CS109A/"  >
 </map>
+
+
+
+
+
+
+
 
 
 
