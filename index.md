@@ -20,10 +20,8 @@ To view the individual previous versions of the course, click on the diagram bel
 
 
 
-<img src="figures/Timeline.png" usemap="#image_map"> 
-
-<map name="image-map">
-	<area target="" alt="kosten" title="kosten" href="pages/214" coords="0,0,1000,1000"  shape="rect">
+<img src="figures/Timeline.png" usemap="#image_map">  <map name="image_map">
+	<area shape="rect"  coords="0,0,1000,1000" target="" alt="kosten" title="kosten" href="pages/214"  >
 </map>
 
 
