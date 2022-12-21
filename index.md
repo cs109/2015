@@ -34,8 +34,8 @@ To view the individual previous versions of the course, click on the diagram bel
 <area shape="circle"  coords="530,240,30" target="" alt="kosten2" title="2019B" href="https://harvard-iacs.github.io/2019-CS109B/"  >
 <area shape="circle"  coords="595,240,30" target="" alt="kosten2" title="2020B" href="https://harvard-iacs.github.io/2020-CS109B/"  >
 <area shape="circle"  coords="667,240,30" target="" alt="kosten2" title="2021B" href="https://harvard-iacs.github.io/2021-CS109B/" >
-<area shape="circle"  coords="730,240,30" target="" alt="kosten2" title="2021B" href="https://harvard-iacs.github.io/2022-CS109B/" >
-<area shape="circle"  coords="751,333,30" target="" alt="kosten2" title="2021B" href="https://learning.edx.org/course/course-v1:HarvardX+CS109x+1T2022/home" >
+<area shape="circle"  coords="742,240,30" target="" alt="kosten2" title="2022B" href="https://harvard-iacs.github.io/2022-CS109B/" >
+<area shape="circle"  coords="751,333,30" target="" alt="kosten2" title="HarvardX" href="https://learning.edx.org/course/course-v1:HarvardX+CS109x+1T2022/home" >
 </map>
 
 ## How to Take this Course
