@@ -28,7 +28,7 @@ To view the individual previous versions of the course, click on the diagram bel
 <area shape="circle"  coords="530,132,30" target="" alt="kosten2" title="2019A" href="https://harvard-iacs.github.io/2019-CS109A/"  >
 <area shape="circle"  coords="595,132,30" target="" alt="kosten2" title="2020A" href="https://harvard-iacs.github.io/2020-CS109A/"  >
 <area shape="circle"  coords="667,132,30" target="" alt="kosten2" title="2021A" href="https://harvard-iacs.github.io/2021-CS109A/" >
-<area shape="circle"  coords="405,240,30" target="" alt="kosten2" title="2017B" href="https://harvard-iacs.github.io/2017-CS109B/"  >
+<area shape="circle"  coords="405,240,30" target="" alt="kosten2" title="2017B" href="pages/2017B"  >
 <area shape="circle"  coords="465,240,30" target="" alt="kosten2" title="2018B" href="https://harvard-iacs.github.io/2018-CS109B/"  >
 <area shape="circle"  coords="530,240,30" target="" alt="kosten2" title="2019B" href="https://harvard-iacs.github.io/2019-CS109B/"  >
 <area shape="circle"  coords="595,240,30" target="" alt="kosten2" title="2020B" href="https://harvard-iacs.github.io/2020-CS109B/"  >
