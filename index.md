@@ -2,7 +2,7 @@
 #layout: frontpage
 title: 
 ---
-# WE HAVE MOVED TO: http://harvard-iacs.github.io/CS109 
+# WE HAVE MOVED TO: <a href="http://harvard-iacs.github.io/CS109"> here </a> 
 
 
 
